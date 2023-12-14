@@ -13,7 +13,6 @@ h3 {
 }
 body {
     background-color: #FED9ED;
-    cursor: pointer
 }
 
 .div_acerca {
@@ -41,4 +40,11 @@ body {
     background-color: #053B50;
 }
 
+p:hover {
+    color: #64CCC5;
+}
 
+img:hover {
+    border-radius: 80%;
+    transition: 2s;
+}
