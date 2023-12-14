@@ -1,0 +1,44 @@
+* { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #45FFCA;
+}
+.titulo_h1 {
+    color:#FEFFAC;
+}
+h3 {
+    color: #FEFFAC;
+}
+body {
+    background-color: #FED9ED;
+    cursor: pointer
+}
+
+.div_acerca {
+    background-color: #D67BFF;
+    padding: 20px 30px 20px 50px;
+    border: solid black;
+    margin: 20px 40px;
+    text-align: center;
+}
+.div_contactame {
+    background-color: #D67BFF;
+    padding: 10px 20px 30px 40px;
+    border: solid black;
+    margin: 20px 40px;
+}
+
+
+.div_proyecto {
+    background-color: #D67BFF;
+    padding: 10px 20px 30px 40px;
+    border: solid black;
+    margin: 20px 40px;
+
+}
+
+.main_div {
+    background-color: #053B50;
+}
